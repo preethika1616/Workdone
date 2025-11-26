@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/preethika1616/Workdone/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/preethika1616/Workdone/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/preethika1616/Workdone/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/preethika1616/Workdone/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/preethika1616/Workdone/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preethika1616/Workdone/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/preethika1616/Workdone/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/preethika1616/Workdone/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/preethika1616/Workdone/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/preethika1616/Workdone/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
