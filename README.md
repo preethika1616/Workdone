@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/preethika1616/Workdone/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preethika1616/Workdone/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/preethika1616/Workdone/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/preethika1616/Workdone/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/preethika1616/Workdone/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/preethika1616/Workdone/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/preethika1616/Workdone/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preethika1616/Workdone/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/preethika1616/Workdone/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
